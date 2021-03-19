@@ -1,0 +1,12 @@
+md5: 64da2a8647d09d9a0e3df2bb329447f8
+frozen: true
+deps:
+- path: data/raw
+  repo:
+    url: https://github.com/nickdelgrosso/calcium-imaging-processing-kata
+    rev_lock: eaa5403e366fcd4d1f1f809b01cbeb9766a5a246
+outs:
+- md5: 706fc870a20ebc771260e4c2e4cb1c2f.dir
+  size: 2093395500
+  nfiles: 2250
+  path: raw
